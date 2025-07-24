@@ -1,1 +1,1 @@
-# Socks5-Person
+# 基于debian系统的Socks5协议安装脚本
